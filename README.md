@@ -37,8 +37,9 @@ You have finally discovered my Github profile. <br>
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav1004&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav1004)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
