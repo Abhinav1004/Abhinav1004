@@ -27,8 +27,11 @@ adamalston?tab=repositories&q=&type=&language=javascript)
 
 ### Skills 
 
-![Machine Learning](https://www.google.com/imgres?imgurl=https%3A%2F%2Fflorencefennel.co.in%2Fimage%2Fcache%2Fcatalog%2Fflorencefennel%2FMachine--Learning-1000x1000.jpg&imgrefurl=http%3A%2F%2Fflorencefennel.co.in%2Fmachine-learning&tbnid=WPIKiIhDh51cpM&vet=12ahUKEwimhez7_bvvAhUnn0sFHTxhBGkQMygCegUIARDZAQ..i&docid=7dqkOlHuyenQ5M&w=1000&h=1000&q=machine%20learning%20logo&ved=2ahUKEwimhez7_bvvAhUnn0sFHTxhBGkQMygCegUIARDZAQ)
-
+![Machine Learning](https://previews.123rf.com/images/antonshaparenko/antonshaparenko1809/antonshaparenko180900906/108745601-machine-learning-icon-monochrome-style-design-from-machine-learning-collection-ux-and-ui-pixel-perfe.jpg)
+![Deep Learning]
+![Natural Language Processing]
+![Computer Vision]
+![Full Stack Web Development]
 
 ### Technologies
 
