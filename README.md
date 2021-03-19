@@ -17,22 +17,21 @@ You have finally discovered my Github profile. <br>
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/
-adamalston?tab=repositories&q=&type=&language=javascript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Abhinav1004/Railway-reservation-system)
 
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
-### Skills 
+<!-- ### Skills 
 
 ![Machine Learning](https://previews.123rf.com/images/antonshaparenko/antonshaparenko1809/antonshaparenko180900906/108745601-machine-learning-icon-monochrome-style-design-from-machine-learning-collection-ux-and-ui-pixel-perfe.jpg)
 ![Deep Learning]
 ![Natural Language Processing]
 ![Computer Vision]
 ![Full Stack Web Development]
-
+ -->
 ### Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
