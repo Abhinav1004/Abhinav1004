@@ -15,13 +15,10 @@ You have finally discovered my Github profile. <br>
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Abhinav1004/Railway-reservation-system)
-
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 <!-- ### Skills 
@@ -40,10 +37,6 @@ You have finally discovered my Github profile. <br>
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 
-### Operating System
-
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Windows](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fwindows-logo%2F&psig=AOvVaw26_A3WmQxa7xNFm0JQIT1b&ust=1616230596675000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDFn6f-u-8CFQAAAAAdAAAAABAD)
 
 
 
