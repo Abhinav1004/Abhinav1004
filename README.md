@@ -47,7 +47,7 @@ You have finally discovered my Github profile. <br>
 	<a href="https://www.linkedin.com/in/abhinav-kumar-jha-0948bb11b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/abhinavkrjha10/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/abhinavjha10/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/Abhinavkrjha10"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	
 </p>
 
 
